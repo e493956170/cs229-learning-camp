@@ -4,9 +4,7 @@
 1. [课程主页](http://cs229.stanford.edu/)  
 2. [中文笔记](https://github.com/learning511/cs229-learning-camp/tree/master/%E6%96%AF%E5%9D%A6%E7%A6%8F%E5%A4%A7%E5%AD%A6%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E8%AF%BE%E7%A8%8B%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0)  
 3. [课程视频](http://open.163.com/special/opencourse/machinelearning.html)  
-4. [环境配置 本地环境](https://github.com/learning511/cs224n-learning-camp/blob/master/environment.md)
-5. [环境配置 Docker](https://github.com/ufoym/deepo)
-6. [作业链接]() 
+4. [作业链接](https://github.com/learning511/cs229-learning-camp/blob/master/assignments.md) 
 
 
 #### 重要一些的资源：
@@ -18,9 +16,11 @@
 6. [本人机器学习博客](https://blog.csdn.net/dukuku5038/article/details/82253966)
 
 
-## 前言
+## 前言 
+### 这门课的宗旨就是手把手教你边学边做机器学习  
+
 吴恩达在斯坦福的机器学习课，是很多人最初入门机器学习的课，历史悠久，而且仍然是最经典的机器学习课程之一。当时因为这门课太火爆，吴恩达不得不弄了个超大的网络课程来授课，结果一不小心从斯坦福火遍全球，而后来的事情大家都知道了。吴恩达这些年，从谷歌大脑项目到创立Coursera再到百度首席科学家再再到最新开设了深度学习deeplearning.ai，辗转多年依然对CS229不离不弃。  
-这门课的宗旨就是手把手教你边学边做机器学习
+
 ## 数学知识复习  
 1.[线性代数](http://web.stanford.edu/class/cs224n/readings/cs229-linalg.pdf)  
 2.[概率论](http://web.stanford.edu/class/cs224n/readings/cs229-prob.pdf)  
@@ -46,7 +46,7 @@
 
 2.  牛顿方法   
 
-3. 作业：Assignment 2 
+3.  作业：Assignment 2 
    3.1 Logistic Regression 
    3.2 Logistic Regression with Regularization
    
@@ -107,12 +107,12 @@
 
 3. 策略搜索  
 
-4. 作业：Assignment 8
+4. 作业：Assignment 8  
  8.1 Anomaly Detection  
- 8.  Recommender Systems
+ 8.2 Recommender Systems  
  
   ### 阶段 10
-比赛
+ 比赛
 
 
   

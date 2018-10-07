@@ -35,7 +35,7 @@ So in Octave/Matlab,
     ```
 * numpy.matrix is never used, just plain ol' numpy.ndarray
 
-## Contents
+## [Contents](https://github.com/learning511/cs229-learning-camp/tree/master/Assignments)
 #### [Exercise 1]
 * Linear Regression
 * Linear Regression with multiple variables
@@ -61,4 +61,4 @@ So in Octave/Matlab,
 * Recommender Systems
 
 ## Solutions
-You can check out my implementation of the assignments [here](https://github.com/nsoojin/coursera-ml-py-sj). I tried to vectorize all the solutions.
+You can check out my implementation of the assignments [here](https://github.com/learning511/cs229-learning-camp/tree/master/Assignments/Solutions). I tried to vectorize all the solutions.

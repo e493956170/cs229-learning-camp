@@ -1,215 +1,119 @@
 # cs229 learning camp 
 
-## ¿Î³Ì×ÊÁÏ
-1. [¿Î³ÌÖ÷Ò³](http://cs229.stanford.edu/)  
-2. [ÖĞÎÄ±Ê¼Ç](http://open.163.com/special/opencourse/machinelearning.html)  
-3. [¿Î³ÌÊÓÆµ](http://open.163.com/special/opencourse/machinelearning.html)  
-4. [»·¾³ÅäÖÃ ±¾µØ»·¾³](https://github.com/learning511/cs224n-learning-camp/blob/master/environment.md)
-5. [»·¾³ÅäÖÃ Docker](https://github.com/ufoym/deepo)
-6. [×÷ÒµÁ´½Ó]() 
+## è¯¾ç¨‹èµ„æ–™
+1. [è¯¾ç¨‹ä¸»é¡µ](http://cs229.stanford.edu/)  
+2. [ä¸­æ–‡ç¬”è®°](https://github.com/learning511/cs229-learning-camp/tree/master/%E6%96%AF%E5%9D%A6%E7%A6%8F%E5%A4%A7%E5%AD%A6%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E8%AF%BE%E7%A8%8B%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0)  
+3. [è¯¾ç¨‹è§†é¢‘](http://open.163.com/special/opencourse/machinelearning.html)  
+4. [ç¯å¢ƒé…ç½® æœ¬åœ°ç¯å¢ƒ](https://github.com/learning511/cs224n-learning-camp/blob/master/environment.md)
+5. [ç¯å¢ƒé…ç½® Docker](https://github.com/ufoym/deepo)
+6. [ä½œä¸šé“¾æ¥]() 
 
 
-#### ÖØÒª????Ò»Ğ©µÄ×ÊÔ´£º
-1. [Éî¶ÈÑ§Ï°Ë¹Ì¹¸£½Ì³Ì](http://deeplearning.stanford.edu/wiki/index.php/UFLDL%E6%95%99%E7%A8%8B)
-2. [ÁÎÑ©·åpython3½Ì³Ì](https://www.liaoxuefeng.com/article/001432619295115c918a094d8954bd493037b03d27bf9a9000)
-3. [github½Ì³Ì](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
-4. [Äª·³»úÆ÷Ñ§Ï°½Ì³Ì](https://morvanzhou.github.io/tutorials)
-5. [Éî¶ÈÑ§Ï°¾­µäÂÛÎÄ](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap.git)
-6. [Ë¹Ì¹¸£cs229´úÂë(»úÆ÷Ñ§Ï°Ëã·¨pythonÍ½ÊÖÊµÏÖ)](https://github.com/nsoojin/coursera-ml-py.git)  
-7. [±¾ÈË²©¿Í](https://blog.csdn.net/dukuku5038/article/details/82253966)
+#### é‡è¦ä¸€äº›çš„èµ„æºï¼š
+1. [æ·±åº¦å­¦ä¹ æ–¯å¦ç¦æ•™ç¨‹](http://deeplearning.stanford.edu/wiki/index.php/UFLDL%E6%95%99%E7%A8%8B)
+2. [å»–é›ªå³°python3æ•™ç¨‹](https://www.liaoxuefeng.com/article/001432619295115c918a094d8954bd493037b03d27bf9a9000)
+3. [githubæ•™ç¨‹](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
+4. [è«çƒ¦æœºå™¨å­¦ä¹ æ•™ç¨‹](https://morvanzhou.github.io/tutorials)
+5. [æ·±åº¦å­¦ä¹ ç»å…¸è®ºæ–‡](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap.git)
+6. [æœ¬äººæœºå™¨å­¦ä¹ åšå®¢](https://blog.csdn.net/dukuku5038/article/details/82253966)
 
 
-## Ç°ÑÔ
-×ÔÈ»ÓïÑÔÊÇÈËÀàÖÇ»ÛµÄ½á¾§£¬×ÔÈ»ÓïÑÔ´¦ÀíÊÇÈË¹¤ÖÇÄÜÖĞ×îÎªÀ§ÄÑµÄÎÊÌâÖ®Ò»£¬¶ø¶Ô×ÔÈ»ÓïÑÔ´¦ÀíµÄÑĞ¾¿Ò²ÊÇ³äÂú÷ÈÁ¦ºÍÌôÕ½µÄ¡£
-Í¨¹ı¾­µäµÄË¹Ì¹¸£cs224n½Ì³Ì£¬ÈÃÎÒÃÇÒ»ÆğºÍ×ÔÈ»ÓïÑÔ´¦Àí¹²Îè£¡Ò²Ï£Íû´ó¼ÒÄÜ¹»ÔÚNLPÁìÓòÓĞËù³É¾Í£¡
+## å‰è¨€
+å´æ©è¾¾åœ¨æ–¯å¦ç¦çš„æœºå™¨å­¦ä¹ è¯¾ï¼Œæ˜¯å¾ˆå¤šäººæœ€åˆå…¥é—¨æœºå™¨å­¦ä¹ çš„è¯¾ï¼Œå†å²æ‚ ä¹…ï¼Œè€Œä¸”ä»ç„¶æ˜¯æœ€ç»å…¸çš„æœºå™¨å­¦ä¹ è¯¾ç¨‹ä¹‹ä¸€ã€‚å½“æ—¶å› ä¸ºè¿™é—¨è¯¾å¤ªç«çˆ†ï¼Œå´æ©è¾¾ä¸å¾—ä¸å¼„äº†ä¸ªè¶…å¤§çš„ç½‘ç»œè¯¾ç¨‹æ¥æˆè¯¾ï¼Œç»“æœä¸€ä¸å°å¿ƒä»æ–¯å¦ç¦ç«éå…¨çƒï¼Œè€Œåæ¥çš„äº‹æƒ…å¤§å®¶éƒ½çŸ¥é“äº†ã€‚å´æ©è¾¾è¿™äº›å¹´ï¼Œä»è°·æ­Œå¤§è„‘é¡¹ç›®åˆ°åˆ›ç«‹Courseraå†åˆ°ç™¾åº¦é¦–å¸­ç§‘å­¦å®¶å†å†åˆ°æœ€æ–°å¼€è®¾äº†æ·±åº¦å­¦ä¹ deeplearning.aiï¼Œè¾—è½¬å¤šå¹´ä¾ç„¶å¯¹CS229ä¸ç¦»ä¸å¼ƒã€‚  
+è¿™é—¨è¯¾çš„å®—æ—¨å°±æ˜¯æ‰‹æŠŠæ‰‹æ•™ä½ è¾¹å­¦è¾¹åšæœºå™¨å­¦ä¹ 
+## æ•°å­¦çŸ¥è¯†å¤ä¹   
+1.[çº¿æ€§ä»£æ•°](http://web.stanford.edu/class/cs224n/readings/cs229-linalg.pdf)  
+2.[æ¦‚ç‡è®º](http://web.stanford.edu/class/cs224n/readings/cs229-prob.pdf)  
+3.[å‡¸å‡½æ•°ä¼˜åŒ–](http://web.stanford.edu/class/cs224n/readings/cs229-cvxopt.pdf)  
+4.[éšæœºæ¢¯åº¦ä¸‹é™ç®—æ³•](http://cs231n.github.io/optimization-1/)  
 
-## ÊıÑ§ÖªÊ¶¸´Ï°  
-1.[ÏßĞÔ´úÊı](http://web.stanford.edu/class/cs224n/readings/cs229-linalg.pdf)  
-2.[¸ÅÂÊÂÛ](http://web.stanford.edu/class/cs224n/readings/cs229-prob.pdf)  
-3.[Í¹º¯ÊıÓÅ»¯](http://web.stanford.edu/class/cs224n/readings/cs229-cvxopt.pdf)  
-4.[Ëæ»úÌİ¶ÈÏÂ½µËã·¨](http://cs231n.github.io/optimization-1/)  
+## python å¤ä¹   
+[pythonå¤ä¹ ](http://web.stanford.edu/class/cs224n/lectures/python-review.pdf)
 
-## python ¸´Ï°  
-[python¸´Ï°](http://web.stanford.edu/class/cs224n/lectures/python-review.pdf)
+## å­¦ä¹ å®‰æ’
+### é˜¶æ®µ 1
+1.  æœºå™¨å­¦ä¹ çš„åŠ¨æœºä¸åº”ç”¨ 
 
-## Ñ§Ï°°²ÅÅ
-### ½×¶Î 1
-1. ×ÔÈ»ÓïÑÔ´¦ÀíºÍÉî¶ÈÑ§Ï°¼ò½é  
-- **slides:** [lecture01-introduction](http://web.stanford.edu/class/cs224n/lectures/lecture1.pdf)
-- ¹Û¿´ÊÓÆµ£¬ÁË½â×ÔÈ»ÓïÑÔ´¦ÀíµÄÀúÊ·¡¢±³¾°ºÍÕû¸ö¿Î³Ì°²ÅÅ
-- Ñ§Ï°±Ê¼Ç£º[×ÔÈ»ÓïÑÔ´¦ÀíÓëÉî¶ÈÑ§Ï°¼ò½é](http://www.hankcs.com/nlp/cs224n-introduction-to-nlp-and-deep-learning.html)
+2.  çº¿æ€§å›å½’ã€é€»è¾‘å›å½’
 
-2. ´ÊµÄÏòÁ¿±íÊ¾1£º
-- **slides:** [lecture02-word2vec1](http://web.stanford.edu/class/cs224n/lectures/lecture2.pdf) 
-- ¹Û¿´ÊÓÆµ
-- Ñ§Ï°±Ê¼Ç£º[wordvecotor](http://www.hankcs.com/nlp/word-vector-representations-word2vec.html)
-
-3. ÂÛÎÄµ¼¶Á£ºÒ»¸ö¼òµ¥µ«ºÜÄÑ³¬Ô½µÄSentence Embedding»ùÏß·½·¨
-- **slides:** [paper1](http://web.stanford.edu/class/cs224n/lectures/lecture2.pdf) 
-- **ÂÛÎÄ±Ê¼Ç**£º[Sentence Embedding](http://www.hankcs.com/nlp/cs224n-sentence-embeddings.html)
-4. ×÷Òµ£ºAssignment 1.1-1.2  
-- 1.1 Softmax  
-- 1.2 Neural Network Basics  
-### ½×¶Î 2
-1.  ¸ß¼¶´ÊÏòÁ¿±íÊ¾£ºword2vec 2
-- **slides:** [lecture03](http://web.stanford.edu/class/cs224n/lectures/lecture3.pdf)
-- ¹Û¿´ÊÓÆµ£¬ÁË½â
-- Ñ§Ï°±Ê¼Ç£º [word2vec 2](http://www.hankcs.com/nlp/cs224n-advanced-word-vector-representations.html)
-
-2. Word Window·ÖÀàÓëÉñ¾­ÍøÂç
-- **slides:** [lecture04](http://web.stanford.edu/class/cs224n/lectures/lecture4.pdf) 
-- ¹Û¿´ÊÓÆµ
-- Ñ§Ï°±Ê¼Ç£º[Word Window·ÖÀàÓëÉñ¾­ÍøÂç](http://www.hankcs.com/nlp/cs224n-word-window-classification-and-neural-networks.html)
-
-3. ÂÛÎÄµ¼¶Á£º´ÊÓïÒåÏîµÄÏßĞÔ´úÊı½á¹¹Óë´ÊÒåÏûÆç
-- **slides:** [paper2](http://web.stanford.edu/class/cs224n/lectures/lecture2.pdf)  
--  **ÂÛÎÄ±Ê¼Ç£º**[´ÊÓïÒåÏîµÄÏßĞÔ´úÊı½á¹¹Óë´ÊÒåÏûÆç](http://www.hankcs.com/nlp/cs224n-word-senses.html)
-4. ×÷Òµ£ºAssignment 1.3-1.4 
-- 1.3 word2vec  
-- 1.4 Sentiment Analysis  
-### ½×¶Î 3
-1.  ·´Ïò´«²¥ÓëÏîÄ¿Ö¸µ¼£ºBackpropagation and Project Advice
-- **slides:** lecture05
-- ¹Û¿´ÊÓÆµ£¬ÁË½â
-- Ñ§Ï°±Ê¼Ç£º [·´Ïò´«²¥ÓëÏîÄ¿Ö¸µ¼](http://www.hankcs.com/nlp/cs224n-backpropagation-and-project-advice.html)
-
-2. TensorFlowÈëÃÅ
-- **slides:** lecture06
-- ¹Û¿´ÊÓÆµ
-- Ñ§Ï°±Ê¼Ç£º[TensorFlow](http://www.hankcs.com/nlp/cs224n-tensorflow.html)
-
-3. ÂÛÎÄµ¼¶Á£º¸ßĞ§ÎÄ±¾·ÖÀà
-- **slides:** [paper]
--  **ÂÛÎÄ±Ê¼Ç£º**[¸ßĞ§ÎÄ±¾·ÖÀà](http://www.hankcs.com/nlp/cs224n-bag-of-tricks-for-efficient-text-classification.html)
-4. ×÷Òµ£ºAssignment 2.1  
-- 2.1 Tensorflow Softmax
-
-### ½×¶Î 4
-1.  ·´Ïò´«²¥ÓëÏîÄ¿Ö¸µ¼£ºDependency Parsing 
-- **slides:** lecture07
-- ¹Û¿´ÊÓÆµ£¬ÁË½â
-- Ñ§Ï°±Ê¼Ç£º [¾ä·¨·ÖÎöºÍÒÀÀµ½âÎö](http://www.hankcs.com/nlp/cs224n-dependency-parsing.html)
-
-2. RNNºÍÓïÑÔÄ£ĞÍ
-- **slides:** lecture08
-- ¹Û¿´ÊÓÆµ
-- Ñ§Ï°±Ê¼Ç£º[RNNºÍÓïÑÔÄ£ĞÍ](http://www.hankcs.com/nlp/cs224n-rnn-and-language-models.html)
-
-3. ÂÛÎÄµ¼¶Á£º´ÊÇ¶Èë¶Ô´«Í³·½·¨µÄÆô·¢
-- **slides:** [paper]
--  **ÂÛÎÄ±Ê¼Ç£º**[´ÊÇ¶Èë¶Ô´«Í³·½·¨µÄÆô·¢](http://www.hankcs.com/nlp/cs224n-improve-word-embeddings.html)
-4. ×÷Òµ£ºAssignment 2.2
-- 2.2 Neural Transition-Based Dependency Parsing
-### ½×¶Î 5
-1.  ¸ß¼¶LSTM¼°GRU£ºLSTM and GRU
-- **slides:** lecture09
-- ¹Û¿´ÊÓÆµ£¬ÁË½â
-- Ñ§Ï°±Ê¼Ç£º [¸ß¼¶LSTM¼°GRU](http://www.hankcs.com/nlp/cs224n-mt-lstm-gru.html)
-
-2. ÆÚÖĞ¸´Ï°
-- **slides:** lecture10
-- ¹Û¿´ÊÓÆµ
-
-3. ÂÛÎÄµ¼¶Á£º»ùÓÚ×ªÒÆµÄÉñ¾­ÍøÂç¾ä·¨·ÖÎöµÄ½á¹¹»¯ÑµÁ·
-- **slides:** [paper]
--  **ÂÛÎÄ±Ê¼Ç£º**[»ùÓÚ×ªÒÆµÄÉñ¾­ÍøÂç¾ä·¨·ÖÎöµÄ½á¹¹»¯ÑµÁ·](http://www.hankcs.com/nlp/cs224n-syntaxnet.html)
-4. ×÷Òµ£ºAssignment 2.3
-- 2.3 Recurrent Neural Networks: Language Modeling
-### ½×¶Î 6
-1.  »úÆ÷·­Òë¡¢ĞòÁĞµ½ĞòÁĞ¡¢×¢ÒâÁ¦Ä£ĞÍ£ºMachine Translation, Seq2Seq and Attention 
-- **slides:** lecture11
-- ¹Û¿´ÊÓÆµ£¬ÁË½â
-- Ñ§Ï°±Ê¼Ç£º [»úÆ÷·­Òë¡¢ĞòÁĞµ½ĞòÁĞ¡¢×¢ÒâÁ¦Ä£ĞÍ]http://www.hankcs.com/nlp/cs224n-9-nmt-models-with-attention.html)
-
-2. GRUºÍNMTµÄ½ø½×
-- **slides:** lecture12
-- ¹Û¿´ÊÓÆµ
-- Ñ§Ï°±Ê¼Ç£º[GRUºÍNMTµÄ½ø½×](http://www.hankcs.com/nlp/cs224n-gru-nmt.html)
-
-3. ÂÛÎÄµ¼¶Á£º¹È¸èµÄ¶àÓïÖÖÉñ¾­ÍøÂç·­ÒëÏµÍ³
-- **slides:** [paper]
--  **ÂÛÎÄ±Ê¼Ç£º**[¹È¸èµÄ¶àÓïÖÖÉñ¾­ÍøÂç·­ÒëÏµÍ³](http://www.hankcs.com/nlp/cs224n-google-nmt.html)
-4. ×÷Òµ£ºAssignment 3.1
-- 3.1  A window into NER
-
-### ½×¶Î 7
-1.  »úÆ÷·­Òë¡¢ĞòÁĞµ½ĞòÁĞ¡¢×¢ÒâÁ¦Ä£ĞÍ£ºMachine Translation, Seq2Seq and Attention 
-- **slides:** lecture11
-- ¹Û¿´ÊÓÆµ£¬ÁË½â
-- Ñ§Ï°±Ê¼Ç£º [»úÆ÷·­Òë¡¢ĞòÁĞµ½ĞòÁĞ¡¢×¢ÒâÁ¦Ä£ĞÍ]http://www.hankcs.com/nlp/cs224n-9-nmt-models-with-attention.html)
-
-2. GRUºÍNMTµÄ½ø½×
-- **slides:** lecture12
-- ¹Û¿´ÊÓÆµ
-- Ñ§Ï°±Ê¼Ç£º[GRUºÍNMTµÄ½ø½×](http://www.hankcs.com/nlp/cs224n-gru-nmt.html)
-
-3. ÂÛÎÄµ¼¶Á£º¹È¸èµÄ¶àÓïÖÖÉñ¾­ÍøÂç·­ÒëÏµÍ³
-- **slides:** [paper]
--  **ÂÛÎÄ±Ê¼Ç£º**[¹È¸èµÄ¶àÓïÖÖÉñ¾­ÍøÂç·­ÒëÏµÍ³](http://www.hankcs.com/nlp/cs224n-google-nmt.html)
-4. ×÷Òµ£ºAssignment 3.1
-- 3.1  A window into NER
-
-### ½×¶Î 8
-1.  ÓïÒôÊ¶±ğµÄend-to-endÄ£ĞÍ
-- **slides:** lecture13
-- ¹Û¿´ÊÓÆµ£¬ÁË½â
-- Ñ§Ï°±Ê¼Ç£º [ÓïÒôÊ¶±ğµÄend-to-endÄ£ĞÍ](http://www.hankcs.com/nlp/cs224n-end-to-end-asr.html)
-
-2. ¾í»ıÉñ¾­ÍøÂç:CNN
-- **slides:** lecture14
-- ¹Û¿´ÊÓÆµ
-- Ñ§Ï°±Ê¼Ç£º[¾í»ıÉñ¾­ÍøÂç](http://www.hankcs.com/nlp/cs224n-convolutional-neural-networks.html)
-
-3. ÂÛÎÄµ¼¶Á£º¹È¸èµÄ¶àÓïÖÖÉñ¾­ÍøÂç·­ÒëÏµÍ³
-- **slides:** [paper]
--  **ÂÛÎÄ±Ê¼Ç£º**[¶Á´½Êõ](http://www.hankcs.com/nlp/cs224n-lip-reading.html)
-4. ×÷Òµ£ºAssignment 3.2
-- 3.2  Recurrent neural nets for NER
+3. ä½œä¸šï¼šAssignment 1  
+   3.1 Linear Regression  
+   3.2 Linear Regression with multiple variables  
 
 
-### ½×¶Î 9
-1.  Tree RNNÓë¶ÌÓï¾ä·¨·ÖÎö
-- **slides:** lecture15
-- ¹Û¿´ÊÓÆµ£¬ÁË½â
-- Ñ§Ï°±Ê¼Ç£º [Tree RNNÓë¶ÌÓï¾ä·¨·ÖÎö](http://www.hankcs.com/nlp/cs224n-tree-recursive-neural-networks-and-constituency-parsing.html)
+### é˜¶æ®µ 2
+1.  æ¬ æ‹Ÿåˆä¸è¿‡æ‹Ÿåˆçš„æ¦‚å¿µ 
 
-2. Ö¸´úÏû½â
-- **slides:** lecture16
-- ¹Û¿´ÊÓÆµ
-- Ñ§Ï°±Ê¼Ç£º[Ö¸´úÏû½â](http://www.hankcs.com/nlp/cs224n-coreference-resolution.html)
+2.  ç‰›é¡¿æ–¹æ³•   
 
-3. ÂÛÎÄµ¼¶Á£º¹È¸èµÄ¶àÓïÖÖÉñ¾­ÍøÂç·­ÒëÏµÍ³
-- **slides:** [paper]
--  **ÂÛÎÄ±Ê¼Ç£º**[Character-AwareÉñ¾­ÍøÂçÓïÑÔÄ£ĞÍ](http://www.hankcs.com/nlp/cs224n-character-aware-neural-language-models.html)
-4. ×÷Òµ£ºAssignment 3.3
-- 3.3  Grooving with GRUs
+3. ä½œä¸šï¼šAssignment 2 
+   3.1 Logistic Regression 
+   3.2 Logistic Regression with Regularization
+   
+### é˜¶æ®µ 3
+1.  ç”Ÿæˆå­¦ä¹ ç®—æ³• 
+
+2.  æœ´ç´ è´å¶æ–¯ç®—æ³•   
+
+3. ä½œä¸šï¼šAssignment 3 
+   3.1 Multiclass Classification
+   
+### é˜¶æ®µ 4
+1.  æœ€ä¼˜é—´éš”åˆ†ç±»å™¨é—®é¢˜ï¼ˆSVMï¼‰
+
+2.  é¡ºåºæœ€å°ä¼˜åŒ–ç®—æ³•ã€ç»éªŒé£é™©æœ€å°åŒ–   
+
+3. ä½œä¸šï¼šAssignment 3
+   3.2 Neural Networks Prediction fuction  
+   
+### é˜¶æ®µ 5
+1.  ç‰¹å¾é€‰æ‹©ï¼Œç¥ç»ç½‘ç»œ
+
+2.  è´å¶æ–¯ç»Ÿè®¡æ­£åˆ™åŒ–   
+
+3. ä½œä¸šï¼šAssignment 4
+  4.1 Neural Networks Learning
+  
+### é˜¶æ®µ 6
+1. K-meansç®—æ³• 
+
+2. é«˜æ–¯æ··åˆæ¨¡å‹   
+
+3. ä½œä¸šï¼šAssignment 5
+  5.1 Regularized Linear Regression  
+  5.2 Bias vs. Variance  
+  
+### é˜¶æ®µ 7
+1. ä¸»æˆåˆ†åˆ†ææ³•ï¼ˆPCAï¼‰
+
+2. å¥‡å¼‚å€¼åˆ†è§£ï¼ˆSVDï¼‰
+
+3. ä½œä¸šï¼šAssignment 7  
+ 7.1 K-means Clustering  
+ 7.2 Principal Component Analysis  
+ ### é˜¶æ®µ 8
+1. é©¬å°”å¯å¤«å†³ç­–è¿‡ç¨‹ï¼ˆå¼ºåŒ–å­¦ä¹ åˆæ­¥ï¼‰
+
+2. ç¦»æ•£ä¸ç»´æ•°ç¾éš¾ 
+
+3. ä½œä¸šï¼šAssignment 6  
+ 6.1 Support Vector Machines  
+ 6.2 Spam email Classifier 
+ 
+ ### é˜¶æ®µ 9
+1. çº¿æ€§äºŒæ¬¡å‹è°ƒèŠ‚æ§åˆ¶
+
+2. å¾®åˆ†åŠ¨æ€è§„åˆ’   
+
+3. ç­–ç•¥æœç´¢  
+
+4. ä½œä¸šï¼šAssignment 8
+ 8.1 Anomaly Detection  
+ 8.  Recommender Systems
+ 
+  ### é˜¶æ®µ 10
+æ¯”èµ›
 
 
-### ½×¶Î 10
-1.   DMNÓëÎÊ´ğÏµÍ³
-- **slides:** lecture17
-- ¹Û¿´ÊÓÆµ£¬ÁË½â
-- Ñ§Ï°±Ê¼Ç£º [DMNÓëÎÊ´ğÏµÍ³](http://www.hankcs.com/nlp/cs224n-dmn-question-answering.html)
+  
 
-2.  NLP´æÔÚµÄÎÊÌâÓëÎ´À´µÄ¼Ü¹¹
-- **slides:** lecture18
-- ¹Û¿´ÊÓÆµ
-- Ñ§Ï°±Ê¼Ç£º[Ö¸´úÏû½â](http://www.hankcs.com/nlp/cs224n-nlp-issues-architectures.html)
-
-3. ÂÛÎÄµ¼¶Á£ºÉñ¾­ÍøÂç×Ô¶¯´úÂëÕªÒª
-- **slides:** [paper]
--  **ÂÛÎÄ±Ê¼Ç£º**[Éñ¾­ÍøÂç×Ô¶¯´úÂëÕªÒª](http://www.hankcs.com/nlp/cs224n-summarizing-source-code.html)
-6. ±ÈÈü
-
-### ½×¶Î 11
-1. ÂÛÎÄµ¼¶Á£ºneural-turing-machines
-- **slides:** [paper]
--  **ÂÛÎÄ±Ê¼Ç£º**[neural-turing-machines](http://www.hankcs.com/nlp/cs224n-neural-turing-machines.html)
-2 ÂÛÎÄµ¼¶Á£º Éî¶ÈÇ¿»¯Ñ§Ï°ÓÃÓÚ¶Ô»°Éú³É
-- **slides:** [paper]
--  **ÂÛÎÄ±Ê¼Ç£º**[Éî¶ÈÇ¿»¯Ñ§Ï°ÓÃÓÚ¶Ô»°Éú³É](http://www.hankcs.com/nlp/cs224n-deep-reinforcement-learning-for-dialogue-generation.html)
-3. Í¼Ïñ¶Ô»°£º
-- **slides:** [paper]
--  **ÂÛÎÄ±Ê¼Ç£º**[Í¼Ïñ¶Ô»°](http://www.hankcs.com/nlp/cs224n-visual-dialog.html)
- ### ½×¶Î 12
-    ±ÈÈü

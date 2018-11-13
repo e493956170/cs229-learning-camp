@@ -44,10 +44,9 @@
 ### 编程工具 
 #### 斯坦福资料： 
 - [Python复习](http://web.stanford.edu/class/cs224n/lectures/python-review.pdf)  
-- [TensorFlow教程](https://github.com/open-source-for-science/TensorFlow-Course#why-use-tensorflow)  
+
 #### 中文资料：
 - [廖雪峰python3教程](https://www.liaoxuefeng.com/article/001432619295115c918a094d8954bd493037b03d27bf9a9000)  
-- [莫烦TensorFlow教程](https://morvanzhou.github.io/tutorials/machine-learning/tensorflow/)
 
 ## 学习安排
 每周具体时间划分为4个部分:  
@@ -68,11 +67,15 @@
 
 ## 学习安排
 ### week 1 
-1.[机器学习的动机与应用](https://open.163.com/movie/2008/1/M/C/M6SGF6VB4_M6SGHFBMC.html)  
+1.机器学习的动机与应用
+- **课件:** [lecture01](https://github.com/learning511/cs224n-learning-camp/blob/master/lecture-notes/cs224n-2017-lecture1.pdf)
+- [观看视频1](https://open.163.com/movie/2008/1/M/C/M6SGF6VB4_M6SGHFBMC.html) 
 
-2.[监督学习应用、梯度下降](https://open.163.com/movie/2008/1/B/O/M6SGF6VB4_M6SGHJ9BO.html) 
+2. 监督学习应用、梯度下降
+- **课件:** [lecture01](https://github.com/learning511/cs224n-learning-camp/blob/master/lecture-notes/cs224n-2017-lecture1.pdf)
+- [观看视频2](https://open.163.com/movie/2008/1/B/O/M6SGF6VB4_M6SGHJ9BO.html) 
 
-3. 作业：Assignment 1  
+3. 作业：[Assignment 1]()  
    1.1 Linear Regression  
    1.2 Linear Regression with multiple variables  
 

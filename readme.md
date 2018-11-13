@@ -67,17 +67,17 @@
 <4> 注意不要改变作业中的《方法名》《类名》不然会检测失败！！ 
 
 ## 学习安排
-### week 1
-1.  机器学习的动机与应用 
+### week 1 
+1.[机器学习的动机与应用](https://open.163.com/movie/2008/1/M/C/M6SGF6VB4_M6SGHFBMC.html)  
 
-2.  线性回归、逻辑回归
+2.[监督学习应用、梯度下降](https://open.163.com/movie/2008/1/B/O/M6SGF6VB4_M6SGHJ9BO.html) 
 
 3. 作业：Assignment 1  
    1.1 Linear Regression  
    1.2 Linear Regression with multiple variables  
 
 ### week 2
-1.  欠拟合与过拟合的概念 
+1.  欠拟合与过拟合的概念 https://open.163.com/movie/2008/1/E/B/M6SGF6VB4_M6SGHM4EB.html
 
 2.  牛顿方法   
 

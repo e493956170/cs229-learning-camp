@@ -3,7 +3,7 @@
 ## 课程资料
 1. [课程主页](http://cs229.stanford.edu/)  
 2. [中文笔记](https://github.com/learning511/cs229-learning-camp/tree/master/%E6%96%AF%E5%9D%A6%E7%A6%8F%E5%A4%A7%E5%AD%A6%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E8%AF%BE%E7%A8%8B%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0)  
-3. [课程视频](http://open.163.com/special/opencourse/machinelearning.html)  
+3. [课程视频](https://study.163.com/course/introduction/1006185093.htm)  
 4. [作业链接](https://github.com/learning511/cs229-learning-camp/blob/master/assignments.md) 
 5. 实验环境推荐使用Linux或者Mac系统，以下环境搭建方法皆适用:  
     [Docker环境配置](https://github.com/ufoym/deepo)  
